@@ -26,7 +26,7 @@ It builds a **complete, automated data pipeline (ETL)** designed to translate co
 
 ## 🏗️ Project Architecture & Workflow
 
-```mermaid
+```mermaid 
 graph TD
     A[Data Generation Script<br/>(Python)] -->|Output CSV| B(Raw Sales Data<br/>korea_sales_data_raw.csv)
     B -->|ETL Process<br/>(Python + SQL)| C{Data Warehouse<br/>(SQLite/PostgreSQL)}
