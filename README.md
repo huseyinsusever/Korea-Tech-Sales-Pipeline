@@ -22,7 +22,7 @@ It builds a **complete, automated data pipeline (ETL)** designed to translate co
 * **DevOps/Automation:** `Git`, `GitHub Actions` (Conceptual workflow automation)
 * **Business Intelligence:** Sales Trend Analysis, Regional Performance Tracking, Inventory Forecasting Insights.
 
----
+
 
 ## 🏗️ Project Architecture & Workflow
 
